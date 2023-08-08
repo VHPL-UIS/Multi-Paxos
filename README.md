@@ -8,7 +8,7 @@ In order to have a working system, we need at least 1 proposer, 2 acceptor, 1 le
 
 For example, to start a client with id 1:
 
-./client.sh 1 paxos.config
+`./client.sh 1 paxos.config`
 
 and the same for other roles.
 
